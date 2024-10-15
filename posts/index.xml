@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2024 16:37:20 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Oct 2024 19:39:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secondblog</title>
+      <link>http://localhost:1313/posts/secondblog/</link>
+      <pubDate>Tue, 15 Oct 2024 19:39:47 +0800</pubDate>
+      <guid>http://localhost:1313/posts/secondblog/</guid>
+      <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;&#xA;&lt;p&gt;欢迎来到我的第一个博客！在这里，我将分享我的经历和想法。&lt;/p&gt;&#xA;&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;&#xA;&lt;p&gt;这是我写的第二篇文章，希望你们喜欢！&lt;/p&gt;&#xA;&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;&#xA;&lt;p&gt;谢谢大家的阅读，如果你有任何问题，请随时与我联系。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Firstblog</title>
-      <link>https://example.org/posts/firstblog/</link>
+      <link>http://localhost:1313/posts/firstblog/</link>
       <pubDate>Tue, 15 Oct 2024 16:37:20 +0800</pubDate>
-      <guid>https://example.org/posts/firstblog/</guid>
+      <guid>http://localhost:1313/posts/firstblog/</guid>
       <description>&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;&#xA;&lt;p&gt;欢迎来到我的第一个博客！在这里，我将分享我的经历和想法。&lt;/p&gt;&#xA;&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;&#xA;&lt;p&gt;这是我写的第一篇文章，希望你们喜欢！&lt;/p&gt;&#xA;&lt;h2 id=&#34;结论&#34;&gt;结论&lt;/h2&gt;&#xA;&lt;p&gt;谢谢大家的阅读，如果你有任何问题，请随时与我联系。&lt;/p&gt;</description>
     </item>
   </channel>
